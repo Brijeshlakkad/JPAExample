@@ -1,6 +1,6 @@
 # JPAExample
 
-To setup connection with your database add configuration in **hibernate.conf.xml**.
+To setup connection with your database add configuration in **persistance.xml**.
 
 If you are using database connection source other than MySQL, then you have to change one of dependencies in pom.xml file.
 
